@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885849289680",
+    "project_id": "youtify-d3874",
+    "storage_bucket": "youtify-d3874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885849289680:android:265211193cd85523353fd5",
+        "android_client_info": {
+          "package_name": "com.example.youtify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885849289680-vv70hs4ka6n3da3ev040o3kovtq6qo9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAB0wh6TdMzD5L4XI_tTEi4ibdvoIalk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885849289680-vv70hs4ka6n3da3ev040o3kovtq6qo9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
